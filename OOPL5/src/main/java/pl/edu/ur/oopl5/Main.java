@@ -4,6 +4,11 @@ public class Main {
 
     public static void main(String[] args) {
         // TODO zad 3, 5, 6
+   
+   for(Pracownik x:tab)
+   {
+       
+   }
     }
     
 }
